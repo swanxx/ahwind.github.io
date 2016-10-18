@@ -9,4 +9,4 @@ category: coding
 
 
 
-[Fong Ray]: http://www.fangr.tk  "Fong Ray"
+[黑白人生]: http://www.xiangduole.com  "黑白人生"
