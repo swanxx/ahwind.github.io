@@ -5,8 +5,10 @@ layout: home
 <div class="index-content coding">
   <div class="section">
     <ul class="artical-cate">
-      <li class="on"><a href="/coding"><span>程序人生</span></a></li>
-      <li style="text-align:center"><a href="/life"><span>生活随笔</span></a></li>
+      <li class="on"><a href="/coding"><span>开源项目</span></a></li>
+      <li style="text-align:center"><a href="/life"><span>技术文章</span></a></li>
+	  <li class="on"><a href="/about"><span>关于我</span></a></li>
+	  
     </ul>
 
     <div class="cate-bar"><span id="cateBar"></span></div>
