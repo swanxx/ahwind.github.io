@@ -1,19 +1,19 @@
----
+ï»¿---
 layout: home
 ---
 
 <div class="index-content life">
   <div class="section">
     <ul class="artical-cate">
-      <li><a href="/coding"><span>¿ªÔ´ÏîÄ¿</span></a></li>
-      <li class="on" style="text-align:center"><a href="/life"><span>¼¼ÊõÎÄÕÂ</span></a></li>
-	  <li class="on"><a href="/about"><span>¹ØÓÚÎÒ</span></a></li>
+      <li><a href="/coding"><span>å¼€æºé¡¹ç›®</span></a></li>
+      <li class="on" style="text-align:center"><a href="/life"><span>æŠ€æœ¯æ–‡ç« </span></a></li>
+	  <li class="on"><a href="/about"><span>å…³äºŽæˆ‘</span></a></li>
     </ul>
 
     <div class="cate-bar"><span id="cateBar"></span></div>
 
     <ul class="artical-list">
-      ´ýÐø¡£¡£¡£¡£¡£¡£
+      å¾…ç»­ã€‚ã€‚ã€‚ã€‚ã€‚ã€‚
     </ul>
 
 
