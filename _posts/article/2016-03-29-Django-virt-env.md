@@ -1,15 +1,13 @@
-
 ---
 layout:     post
 title:      Django虚拟环境搭建
-category: article
+category:   article
 description: Django虚拟环境搭建
 ---
 
 
-# 搭建Django虚拟运行环境
 
-在Python工作环境中，经常会遇到使用相同库不同版本的情况，为了兼容，我们可以使用虚拟环境
+## 在Python工作环境中，经常会遇到使用相同库不同版本的情况，为了兼容，我们可以使用虚拟环境
 
 **安装**
 ```
