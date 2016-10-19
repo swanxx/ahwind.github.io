@@ -1,0 +1,14 @@
+auto: true
+
+markdown: kramdown
+
+kramdown:
+    input: GFM
+rouge: true
+paginate: 8
+permalink: /:title
+
+title: 黑白人生
+url: http://ahwind.github.io
+feed: /atom.xml
+author_info: <a href="http://ahwind.github.io/">黑白人生</a>
