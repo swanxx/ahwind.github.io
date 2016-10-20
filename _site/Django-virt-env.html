@@ -78,32 +78,35 @@
     <div class="entry">
         <h1 class="entry-title"><a href="/Django-virt-env" title="Django虚拟环境搭建">Django虚拟环境搭建</a></h1>
         <p class="entry-date">2016-03-29</p>
-        <h2 id="python">在Python工作环境中，经常会遇到使用相同库不同版本的情况，为了兼容，我们可以使用虚拟环境</h2>
+        <h1 id="django">搭建Django虚拟运行环境</h1>
 
-<p><strong>安装</strong></p>
+<p>在Python工作环境中，经常会遇到使用相同库不同版本的情况，为了兼容，我们可以使用虚拟环境</p>
+
+<h4 id="section">安装</h4>
+
 <div class="highlighter-rouge"><pre class="highlight"><code>#/usr/local/python/bin/pip install virtualenv
 </code></pre>
 </div>
-<p><strong>创建虚拟环境</strong></p>
+<h4 id="section-1">创建虚拟环境</h4>
 <div class="highlighter-rouge"><pre class="highlight"><code>#/usr/local/python/bin/virtualenv /usr/local/django1811
 </code></pre>
 </div>
-<p><strong>切换到虚拟环境</strong></p>
+<h4 id="section-2"><strong>切换到虚拟环境</strong></h4>
 <div class="highlighter-rouge"><pre class="highlight"><code>#source /usr/local/django1811/bin/activate
 </code></pre>
 </div>
-<p><strong>安装python库</strong></p>
+<h4 id="python"><strong>安装python库</strong></h4>
 <div class="highlighter-rouge"><pre class="highlight"><code>(django1811) [root@jyw-w-salt02 testm2m]#
 
   pip install django==1.8.11
   pip install django_grappelli==2.7.3
 </code></pre>
 </div>
-<p><strong>退出虚拟环境</strong></p>
+<h4 id="section-3"><strong>退出虚拟环境</strong></h4>
 <div class="highlighter-rouge"><pre class="highlight"><code>#deactivate
 </code></pre>
 </div>
-<p><strong>运行</strong></p>
+<h4 id="section-4"><strong>运行</strong></h4>
 <div class="highlighter-rouge"><pre class="highlight"><code>#/usr/local/django1811/bin/python manage.py  runserver
 </code></pre>
 </div>
@@ -111,20 +114,19 @@
     </div>
 
     <div class="sidenav">
-        <h2>Blog</h2>
-        <ul class="artical-list">
-        
-        </ul>
+       
 
-        <h2>Article</h2>
+        <h2>文章列表</h2>
         <ul class="artical-list">
         
             <li><a href="/Django-virt-env">Django虚拟环境搭建</a></li>
         
         </ul>
 
-        <h2>Project</h2>
+        <h2>项目</h2>
         <ul class="artical-list">
+        
+            <li><a href="/Simple-auth-system">简单权限认证管理系统</a></li>
         
         </ul>
     </div>
