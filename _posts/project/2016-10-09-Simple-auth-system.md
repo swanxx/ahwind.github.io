@@ -12,7 +12,7 @@ description: 实现简单认证系统， 密码强度不高。对保密性要求
 - 登录系统基于nginx的HTTP Basic Authentication和nginx_lua模块
 效果图：
 
-![image](/images/sams1.jpg)
+![image](/images/sams/sams1.jpg)
 
 本地记录信息
 
@@ -55,3 +55,6 @@ Authorization:Basic bxdjcmdmZQ5nan6xOnVzDXJbbeddbcb=
 
 
 非允许访问会跳转到403页面
+
+
+[项目地址](https://github.com/ahwind/sams)
